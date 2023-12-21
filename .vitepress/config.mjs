@@ -10,7 +10,7 @@ export default defineConfig({
   themeConfig: {
     sidebar: sidebar(),
     nav: nav(),
-    socialLinks: [{ icon: "github", link: "https://github.com/Da222Da/web" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Da222Da/culture" }],
     search: {
       provider: "local",
     },
