@@ -2,5 +2,5 @@
 
 本站主要收录了“文化小吏”学习文化的笔记。主要包括以下部分：
 
-- 历史篇
-  - [吕思勉(史学家)](./history/lvsimian/index.md)
+- 社会篇
+  - [吕思勉(史学家)](./human/lvsimian/index.md)

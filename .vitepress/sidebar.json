@@ -2,10 +2,9 @@
   "home": {
     "items": [
       {
-        "text": "历史篇",
-        "base": "/history/",
+        "text": "社会篇",
         "collapsed": false,
-        "items": [{ "text": "吕思勉(史学家)", "link": "/lvsimian/" }]
+        "items": [{ "text": "吕思勉(史学家)", "link": "/human/lvsimian/" }]
       }
     ]
   }
