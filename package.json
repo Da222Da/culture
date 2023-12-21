@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "基于 JavaScript 的 Web 应用开发",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev ",
+    "build": "vitepress build",
+    "deploy": "git add . & git commit -m 'deploy' & git push",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "vitepress": "^1.0.0-rc.25"
+  },
+  "dependencies": {
+    "element-plus": "^2.4.2"
+  }
+}

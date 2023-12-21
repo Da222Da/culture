@@ -1,0 +1,12 @@
+{
+  "home": {
+    "items": [
+      {
+        "text": "高人篇",
+        "base": "/human/",
+        "collapsed": false,
+        "items": [{ "text": "吕思勉(史学家)", "link": "/lvsimian/" }]
+      }
+    ]
+  }
+}
