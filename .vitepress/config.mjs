@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 import sidebarData from "./sidebar.json";
 
 export default defineConfig({
-  title: "Culture 文化笔记",
-  description: "张先觉的文化笔记",
+  title: "Culture 刀笔小吏",
+  description: "张先觉的刀笔小吏",
   base: "/culture/",
   srcDir: "src",
   head: [["link", { rel: "stylesheet", href: "" }]],
