@@ -4,7 +4,7 @@ import sidebarData from "./sidebar.json";
 export default defineConfig({
   title: "Culture 文化笔记",
   description: "张先觉的文化笔记",
-  base: "/web/",
+  base: "/culture/",
   srcDir: "src",
   head: [["link", { rel: "stylesheet", href: "" }]],
   themeConfig: {
