@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 import sidebarData from "./sidebar.json";
 
 export default defineConfig({
-  title: "Culture 文化小吏",
+  title: "Culture 文化",
   description: "",
   base: "/culture/",
   srcDir: "src",
@@ -10,6 +10,7 @@ export default defineConfig({
   themeConfig: {
     sidebar: sidebar(),
     nav: nav(),
+    outline: [2, 3],
     socialLinks: [{ icon: "github", link: "https://github.com/Da222Da/culture" }],
     search: {
       provider: "local",
