@@ -12,7 +12,10 @@
       {
         "text": "经典读物",
         "collapsed": false,
-        "items": [{ "text": "太上老君清静经", "link": "/book/qingjingjin/" }]
+        "items": [
+          { "text": "太上老君清静经", "link": "/book/qingjingjin/" },
+          { "text": "西游记", "link": "/book/xiyouji/" }
+        ]
       }
     ]
   }
