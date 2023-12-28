@@ -2,12 +2,9 @@
   "home": {
     "items": [
       {
-        "text": "社会篇",
+        "text": "精神朋友",
         "collapsed": false,
-        "items": [
-          { "text": "个人", "link": "/society/person/" },
-          { "text": "历史", "link": "/society/history/" }
-        ]
+        "items": [{ "text": "张至顺" }, { "text": "倪海厦" }, { "text": "艾跃进" }]
       },
       {
         "text": "经典读物",
@@ -16,6 +13,10 @@
           { "text": "太上老君清静经", "link": "/book/qingjingjin/" },
           { "text": "西游记", "link": "/book/xiyouji/" }
         ]
+      },
+      {
+        "text": "个人成长",
+        "link": "/growth/"
       }
     ]
   }
