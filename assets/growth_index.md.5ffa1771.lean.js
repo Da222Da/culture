@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as r}from"./chunks/framework.e5b03845.js";const f=JSON.parse('{"title":"个人成长","description":"","frontmatter":{},"headers":[],"relativePath":"growth/index.md","filePath":"growth/index.md"}'),o={name:"growth/index.md"},i=r("",5),l=[i];function n(h,s,d,_,c,u){return e(),t("div",null,l)}const p=a(o,[["render",n]]);export{f as __pageData,p as default};
