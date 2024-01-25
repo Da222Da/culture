@@ -1,7 +1,7 @@
 {
-  "name": "web",
+  "name": "culture",
   "version": "1.0.0",
-  "description": "基于 JavaScript 的 Web 应用开发",
+  "description": "张先觉和他的朋友们",
   "main": "index.js",
   "private": true,
   "scripts": {

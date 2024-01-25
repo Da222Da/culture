@@ -3,7 +3,7 @@ import sidebarData from "./sidebar.json";
 
 export default defineConfig({
   title: "Culture 文化",
-  description: "",
+  description: "张先觉和他的朋友们",
   base: "/culture/",
   srcDir: "src",
   head: [["link", { rel: "stylesheet", href: "" }]],

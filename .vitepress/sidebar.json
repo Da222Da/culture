@@ -1,17 +1,17 @@
 {
-    "home": {
-        "items": [
-            { "text": "简介", "link": "/" },
-            {
-                "text": "老师",
-                "collapsed": false,
-                "items": [{ "text": "张至顺" }, { "text": "倪海厦" }]
-            },
-            {
-                "text": "经典",
-                "collapsed": false,
-                "items": [{ "text": "西游记", "link": "/book/xiyouji/" }]
-            }
-        ]
-    }
+  "home": {
+    "items": [
+      { "text": "简介", "link": "/" },
+      {
+        "text": "朋友圈",
+        "collapsed": false,
+        "items": [{ "text": "张至顺" }, { "text": "倪海厦" }]
+      },
+      {
+        "text": "经典",
+        "collapsed": false,
+        "items": [{ "text": "西游记", "link": "/book/xiyouji/" }]
+      }
+    ]
+  }
 }
